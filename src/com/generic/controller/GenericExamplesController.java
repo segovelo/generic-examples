@@ -75,6 +75,28 @@ public class GenericExamplesController {
 	 
 	    assertThat(stringList, hasItems("1", "2", "3", "4", "5"));
 	}
+	
+	public void methodToTestMerge() {
+		int i = 0;
+		int b = 10;
+		while(i <b) {
+			System.out.println("\n    i =  " + i);
+		}
+		
+		// This in branch-to-merge-into will merge
+		
+		// This in branch-to-merge-into will merge
+		
+		// This in branch-to-merge-into will NOT merge
+		
+		// This in branch-to-merge-into will merge
+		
+		// This in branch-to-merge-into will NOT merge
+		
+		// This in branch-to-merge-into will merge
+		
+		
+	}
 
 
 
