@@ -83,17 +83,17 @@ public class GenericExamplesController {
 			System.out.println("\n    i =  " + i);
 		}
 		
-		// This in branch-to-merge-into will merge
+		// This in branch-merge-from  will NOT merge
 		
-		// This in branch-to-merge-into will merge
+		// This in branch-merge-from will NOT merge
 		
-		// This in branch-to-merge-into will NOT merge
+		// This in branch-merge-from will merge
 		
-		// This in branch-to-merge-into will merge
+		// This in branch-merge-from will NOT merge
 		
-		// This in branch-to-merge-into will NOT merge
+		// This in branch--merge-from will  merge
 		
-		// This in branch-to-merge-into will merge
+		// This in branch--merge-from will NOT merge
 		
 		
 	}
