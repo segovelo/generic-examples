@@ -87,11 +87,11 @@ public class GenericExamplesController {
 		
 		System.out.println("\n This in branch-to-merge-into will  merge");
 		
-		System.out.println("\n This in branch-to-merge-into will NOTmerge");
+		System.out.println("\n This in branch-merge-from will merge");
 		
 		System.out.println("\n This in branch-to-merge-into will  merge");
 		
-		System.out.println("\n This in branch-to-merge-into will NOT merge");
+		System.out.println("\n This in branch--merge-from will  merge");
 		
 		System.out.println("\n This in branch-to-merge-into will merge");
 		
